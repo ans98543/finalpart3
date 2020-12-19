@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f66ad89-4d56-4ecb-8689-44c77edb9e4b" name="AFS" url="http://web.njit.edu/~ans75">
+        <fileTransfer rootFolder="/afs/cad.njit.edu/u/a/n/ans75/public_html/" accessType="SFTP" host="afs15.njit.edu" port="22" sshConfigId="12e8ef1f-36f9-4962-b520-6eb7cfe27684" sshConfig="ans75@afs15.njit.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
