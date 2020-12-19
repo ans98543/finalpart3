@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59365df9-ac64-416a-9e67-03b5968790af" name="Default Changelist" comment="" />
+    <list default="true" id="59365df9-ac64-416a-9e67-03b5968790af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browser_wars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/domain_names.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/domain_names.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/http_https.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/http_https.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/internet_search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ipaddresses.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddresses.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lqNNeWOFGtadxcEcxxEYMj76dH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608320622831</updated>
-      <workItem from="1608320623915" duration="22444000" />
+      <workItem from="1608320623915" duration="23375000" />
     </task>
     <servers />
   </component>
@@ -66,5 +79,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="259" y="9" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1608320686885" />
+    <state x="561" y="262" key="Github.ShareDialog" timestamp="1608348390211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1608348390211" />
+    <state x="501" y="69" key="Github.UntrackedFilesDialog" timestamp="1608348400561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="501" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608348400561" />
   </component>
 </project>
